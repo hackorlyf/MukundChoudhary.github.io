@@ -18,7 +18,7 @@
 
 ## Projects
 ### Multiplayer Chef Ducks
-[Play]([https://www.mdpi.com/1424-8220/22/8/3048](https://play.unity.com/en/games/271199c8-eeaf-491e-86d4-38b77e76bcc1/multiplayerchefducks))
+[Play](https://play.unity.com/en/games/271199c8-eeaf-491e-86d4-38b77e76bcc1/multiplayerchefducks)
 
 - Multiplayer Kitchen Fight in Unity.
 - Multiplayer Shooting in Unreal Engine.

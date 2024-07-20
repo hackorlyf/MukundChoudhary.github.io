@@ -5,7 +5,7 @@
 ## Work Experience
 ### Game Developer @ Learn with One
 - Understanding the game mechanics of game developed in Unreal and implementing it in Unity.
-- Clean Building using WebGL and optimizing each project by 80% using the WebGL Optimizer saving upto 85% of space that was initially of the game.
+- Clean Building using WebGL and optimizing each project by 80% using the WebGL Optimizer saving up to 85% of space that was initially of the game.
 
 ### Open Source Contributor @ Sugerizer
 - Found a Bug.
@@ -57,4 +57,5 @@ Used **Matlab** to train over 100 machine learning models which estimated partic
 - [Data Science Blog](https://medium.com/@shawhin)
 
 ## Hobbies			        		
-- Sports: Soccer, Tennis, At | Shri Mata Vaishno Devi University (_May 2025_)
+- Sports: Soccer, Tennis, Athletics | Team Captain of Soccer and Tennis team of the University
+- Music: Guitar, Singing, Panio | Winners of Inter-College Fest

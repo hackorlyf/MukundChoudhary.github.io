@@ -20,10 +20,12 @@
 ### Multiplayer Chef Ducks
 [Play](https://play.unity.com/en/games/271199c8-eeaf-491e-86d4-38b77e76bcc1/multiplayerchefducks)
 
+![MultiplayerChefDucksClip](/assets/img/gameplay1.gif)
+
 - Multiplayer Kitchen Fight in Unity.
 - Multiplayer Shooting in Unreal Engine.
 
-![MultiplayerChefDucksClip](/assets/img/test2.gif)
+![MultiplayerChefDucksClip](/assets/img/gameplay2.gif)
 
 ### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
 [Publication](https://www.mdpi.com/1424-8220/22/11/4240)

@@ -23,7 +23,7 @@
 - Multiplayer Kitchen Fight in Unity.
 - Multiplayer Shooting in Unreal Engine.
 
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
+![MultiplayerChefDucksClip](/assets/img/test.gif)
 
 ### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
 [Publication](https://www.mdpi.com/1424-8220/22/11/4240)
@@ -55,4 +55,4 @@ Used **Matlab** to train over 100 machine learning models which estimated partic
 - [Data Science Blog](https://medium.com/@shawhin)
 
 ## Hobbies			        		
-- Sports, Computer Science Engineering(CSE) | Shri Mata Vaishno Devi University (_May 2025_)
+- Sports: Soccer, Tennis, At | Shri Mata Vaishno Devi University (_May 2025_)

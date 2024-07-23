@@ -9,6 +9,7 @@
 - Clean Building games using WebGL and optimizing each project by 80% using the WebGL Optimizer saving up to 85% of space that was initially the size of the game.
 - Reduced the size of the WebGL built game to approx. 66.6% of its original size by solely optimizing Textures and Sound Effects and Clips
 - Identified steps to reduce development rates by 10% by using free assets imported from Sketchfab and Unity Asset Store.
+
 #### Unity Developer
 - Converting Rendering Settings, Material Upgrade & Animation Clip to URP from Built-in settings (SRP/HDRP) using the Render Pipeline Converter of Universal RP 14.0.11 Package from Unity Registry.
 - Decreased uninstallation rate by 40% by introducing Endless Runner Genre to Educational Games.

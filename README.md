@@ -21,11 +21,6 @@
 - [#9](https://github.com/sugarlabs/sugarizer/pull/9) (closed): Refactor input handling to prevent duplicate player Instantiation
 - [#1536](https://github.com/llaske/sugarizer/issues/1536) (bug): Found a bug in sugarizer. The player was spawned without face and color from time to time.
 
-### Projects
-- Multiplayer Kitchen Fight in Unity.
-- Multiplayer Shooting in Unreal Engine.
-
-
 ## Projects
 ### Multiplayer Chef Ducks
 [Play](https://play.unity.com/en/games/271199c8-eeaf-491e-86d4-38b77e76bcc1/multiplayerchefducks)
@@ -55,6 +50,11 @@
 - View Certificate  |  View Assignments Gameplay
 
 - [Submitted Assignments](https://youtube.com/playlist?list=PLDDx3lJ_CoDLCzRP3Z172uUmZsnJmb1bk&feature=shared)
+
+### Coming Projects
+- Multiplayer Pong in Unity.
+- Multiplayer Flappy Mobile in Unity.
+- Multiplayer Shooting in Unreal Engine.
 
 ## Education			        		
 - B.Tech., Computer Science Engineering(CSE) | Shri Mata Vaishno Devi University (_May 2025_)

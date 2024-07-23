@@ -18,8 +18,8 @@
 #### 2023-2024	Sugar Labs	Austin, Texas
 ##### Sugarizer Web Platform 
 - [#3701](https://github.com/sugarlabs/musicblocks/pull/3701) (merged): Removed an extra if condition which was added for the resizing issue when the download toolbar used to appear at the bottom of Chrome. I also added an Exceptional handler in activity.js.
-- [#9]((https://github.com/sugarlabs/sugarizer/pull/9)) (closed): Refactor input handling to prevent duplicate player Instantiation
-- [#1536]((https://github.com/llaske/sugarizer/issues/1536)) (bug): Found a bug in sugarizer. The player was spawned without face and color from time to time.
+- [#9](https://github.com/sugarlabs/sugarizer/pull/9) (closed): Refactor input handling to prevent duplicate player Instantiation
+- [#1536](https://github.com/llaske/sugarizer/issues/1536) (bug): Found a bug in sugarizer. The player was spawned without face and color from time to time.
 
 ### Projects
 - Multiplayer Kitchen Fight in Unity.

@@ -64,7 +64,7 @@
 2. 
 3. 
 
-- [Data Science Blog](https://medium.com/@shawhin)
+- [Achievement Related Link](https://jeescore)
 
 ## Hobbies			        		
 - Sports: Soccer, Tennis, Athletics | Team Captain of Soccer and Tennis team of the University

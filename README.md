@@ -4,15 +4,21 @@
 
 ## Work Experience
 ### Game Developer @ Learn with One
-- Understanding the game mechanics of game developed in Unreal and implementing it in Unity.
-- Clean Building using WebGL and optimizing each project by 80% using the WebGL Optimizer saving up to 85% of space that was initially of the game.
+#### Game Developer
+- Understanding the game mechanics of games developed in Unreal and implementing those in Unity.
+- Clean Building games using WebGL and optimizing each project by 80% using the WebGL Optimizer saving up to 85% of space that was initially the size of the game.
+- Reduced the size of the WebGL built game to approx. 66.6% of its original size by solely optimizing Textures and Sound Effects and Clips
+- Identified steps to reduce development rates by 10% by using free assets imported from Sketchfab and Unity Asset Store.
+#### Unity Developer
+- Converting Rendering Settings, Material Upgrade & Animation Clip to URP from Built-in settings (SRP/HDRP) using the Render Pipeline Converter of Universal RP 14.0.11 Package from Unity Registry.
+- Decreased uninstallation rate by 40% by introducing Endless Runner Genre to Educational Games.
 
 ### Open Source Contributor @ Sugerizer
 #### 2023-2024	Sugar Labs	Austin, Texas
 ##### Sugarizer Web Platform 
 - [#3701](https://github.com/sugarlabs/musicblocks/pull/3701) (merged): Removed an extra if condition which was added for the resizing issue when the download toolbar used to appear at the bottom of Chrome. I also added an Exceptional handler in activity.js.
-- [#9]([url](https://github.com/sugarlabs/sugarizer/pull/9)) (closed): Refactor input handling to prevent duplicate player Instantiation
-- [#1536]([url](https://github.com/llaske/sugarizer/issues/1536)) (bug): Found a bug in sugarizer. The player was spawned without face and color from time to time.
+- [#9]((https://github.com/sugarlabs/sugarizer/pull/9)) (closed): Refactor input handling to prevent duplicate player Instantiation
+- [#1536]((https://github.com/llaske/sugarizer/issues/1536)) (bug): Found a bug in sugarizer. The player was spawned without face and color from time to time.
 
 ### Projects
 - Multiplayer Kitchen Fight in Unity.

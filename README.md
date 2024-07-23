@@ -40,24 +40,21 @@
 
 ![MultiplayerChefDucksClip](/assets/img/gameplay2.gif)
 
-### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
-[Publication](https://www.mdpi.com/1424-8220/22/11/4240)
+### Endless Runner Cat
+[Test Play](https://hackorlyf.github.io/EndlessRunnerCatWebGL/)
 
-Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
+- 100% compatible with Android/IOS Phones by just using the Chrome browser.
 
-![Bike Study](/assets/img/bike_study.jpeg)
+![Gameplay](/assets/img/bike_study.jpeg)
 
 ## Certification
 ![Harvard Certificate](/assets/img/CS50G.jpg)
 
-- Causality: The new science of an old question - GSP Seminar, Fall 2021
-- Guest Lecture: Dimensionality Reduction - Big Data and Machine Learning for Scientific Discovery (PHYS 5336), Spring 2021
-- Guest Lecture: Fourier and Wavelet Transforms - Scientific Computing (PHYS 5315), Fall 2020
-- A Brief Introduction to Optimization - GSP Seminar, Fall 2019
-- Weeks of Welcome Poster Competition - UTD, Fall 2019
-- A Brief Introduction to Networks - GSP Seminar, Spring 2019
+- Developed 12 games using Lua and C# in Love2D and Unity Engine respectively.
+- Final Project: Fruit Ninja Clone with 100% compatibility with Android/IOS Phones. View Project
+- View Certificate  |  View Assignments Gameplay
 
-- [Data Science YouTube](https://www.youtube.com/channel/UCa9gErQ9AE5jT2DZLjXBIdA)
+- [Submitted Assignments](https://youtube.com/playlist?list=PLDDx3lJ_CoDLCzRP3Z172uUmZsnJmb1bk&feature=shared)
 
 ## Education			        		
 - B.Tech., Computer Science Engineering(CSE) | Shri Mata Vaishno Devi University (_May 2025_)

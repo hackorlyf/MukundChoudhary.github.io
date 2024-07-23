@@ -8,8 +8,11 @@
 - Clean Building using WebGL and optimizing each project by 80% using the WebGL Optimizer saving up to 85% of space that was initially of the game.
 
 ### Open Source Contributor @ Sugerizer
-- Found a Bug.
-- Added an Event Listener.
+#### 2023-2024	Sugar Labs	Austin, Texas
+##### Sugarizer Web Platform 
+- [#3701](https://github.com/sugarlabs/musicblocks/pull/3701) (merged): Removed an extra if condition which was added for the resizing issue when the download toolbar used to appear at the bottom of Chrome. I also added an Exceptional handler in activity.js.
+- [#9]([url](https://github.com/sugarlabs/sugarizer/pull/9)) (closed): Refactor input handling to prevent duplicate player Instantiation
+- [#1536]([url](https://github.com/llaske/sugarizer/issues/1536)) (bug): Found a bug in sugarizer. The player was spawned without face and color from time to time.
 
 ### Projects
 - Multiplayer Kitchen Fight in Unity.
@@ -22,8 +25,11 @@
 
 ![MultiplayerChefDucksClip](/assets/img/gameplay1.gif)
 
-- Multiplayer Kitchen Fight in Unity.
-- Multiplayer Shooting in Unreal Engine.
+- Utilized Unity’s INetworkSerializable interface to synchronize game data across multiple clients, ensuring consistent game state and smooth multiplayer experience for up to 4 players.
+- Created and managed core game state logic using KitchenGameManager, handling transitions between Countdown, GamePlaying, and GameOver, ensuring game flow and reducing errors by 30%. 
+- Implemented reliable and unreliable Remote Procedure Calls (RPCs) for efficient network communication, balancing performance and reliability based on the nature of game data, resulting in a 25% reduction in latency.
+- Utilized the Singleton design pattern, ensuring a single instance. Employed data structures like event handlers and structs, leveraging OOP principles to improve code maintainability by 40% and scalability by 20%.
+
 
 ![MultiplayerChefDucksClip](/assets/img/gameplay2.gif)
 

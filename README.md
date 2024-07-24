@@ -51,7 +51,7 @@
 
 - [Submitted Assignments](https://youtube.com/playlist?list=PLDDx3lJ_CoDLCzRP3Z172uUmZsnJmb1bk&feature=shared)
 
-### Coming Projects
+### Upcoming Projects
 - Multiplayer Pong in Unity.
 - Multiplayer Flappy Mobile in Unity.
 - Multiplayer Shooting in Unreal Engine.
@@ -60,9 +60,10 @@
 - B.Tech., Computer Science Engineering(CSE) | Shri Mata Vaishno Devi University (_May 2025_)
 
 ## Achievements
-1. 
-2. 
-3. 
+1. Successfully qualified for JEE Advanced on the first attempt, securing a Common Rank List (CRL) position of 24k.
+2. Achieved a 94.5 percentile in JEE Mains on the first attempt.
+3. Earned multiple Google Cloud Badges, demonstrating proficiency in cloud technologies.
+4. Awarded Gold, Silver, and Bronze medals in university-level soccer, lawn tennis, and athletics.
 
 - [Achievement Related Link](https://jeescore)
 

@@ -15,7 +15,7 @@
 - Decreased uninstallation rate by 40% by introducing Endless Runner Genre to Educational Games.
 
 ### Open Source Contributor @ Sugerizer
-#### 2023-2024	Sugar Labs	Austin, Texas
+#### 2023-2024	Sugar Labs	                         Austin, Texas
 ##### Sugarizer Web Platform 
 - [#3701](https://github.com/sugarlabs/musicblocks/pull/3701) (merged): Removed an extra if condition which was added for the resizing issue when the download toolbar used to appear at the bottom of Chrome. I also added an Exceptional handler in activity.js.
 - [#9](https://github.com/sugarlabs/sugarizer/pull/9) (closed): Refactor input handling to prevent duplicate player Instantiation
